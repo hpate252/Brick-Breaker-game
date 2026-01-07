@@ -22,7 +22,7 @@ A simple Brick Breaker / Breakout-style game built with Java Swing.
 - Simple keyboard controls
 
 ## Controls
-
+**To start the game click shift+tab+leftarrow Key**
 - ⬅️ **Left Arrow** – Move paddle left  
 - ➡️ **Right Arrow** – Move paddle right  
 - ↵ **Enter** – Restart after game over / win  
