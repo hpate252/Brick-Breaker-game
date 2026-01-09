@@ -1,5 +1,4 @@
 # Brick Breaker Game (Java)
-
 A simple Brick Breaker / Breakout-style game built with Java Swing.
 
 ## Demo
@@ -35,8 +34,6 @@ A simple Brick Breaker / Breakout-style game built with Java Swing.
    ```bash
    javac -d bin src/*.java
 
-**Run the game:**
-
-java -cp bin Main
+**Run the game:** java -cp bin Main
 
 Or open the project in your favorite IDE (IntelliJ, NetBeans, Eclipse) and run the Main class.
