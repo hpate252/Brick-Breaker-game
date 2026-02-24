@@ -4,7 +4,9 @@ A simple Brick Breaker / Breakout-style game built with Java Swing.
 ## Demo
 
 > Gameplay recording of the Brick Breaker game:
-> https://github.com/user-attachments/assets/4d4bed12-dd5b-4801-9246-834a073186f7
+
+https://github.com/user-attachments/assets/86fbd5e9-68a5-454b-9449-a5cab16bf38c
+
 
 > <img width="1706" height="1370" alt="image" src="https://github.com/user-attachments/assets/9b94dc40-b53c-4b5c-912b-64c1d3f4dde2" />
 
