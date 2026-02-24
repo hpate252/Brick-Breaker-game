@@ -7,6 +7,10 @@ A simple Brick Breaker / Breakout-style game built with Java Swing.
 > <img width="1706" height="1370" alt="image" src="https://github.com/user-attachments/assets/9b94dc40-b53c-4b5c-912b-64c1d3f4dde2" />
 
 
+
+https://github.com/user-attachments/assets/4d4bed12-dd5b-4801-9246-834a073186f7
+
+
 <video controls width="640">
   <source src="Demo of Game.mp4" type="video/mp4">
   Your browser does not support the video tag.
